@@ -32,7 +32,7 @@ Delivered a data-driven marketing strategy for a pharmaceutical client. Led pipe
 **Tools:** Talend, Oracle DB, Attunity  
 Enhanced an existing healthcare reporting product through data modeling and ETL optimization. Supported development and testing teams to ensure delivery quality.
 
-_(Additional projects available in the [etl-projects](https://github.com/your-username/etl-projects) repository.)_
+_(Additional projects available in the [etl-projects](https://github.com/pooja-tuteja/etl-projects) repository.)_
 
 ---
 
