@@ -1,6 +1,6 @@
 # Pooja | ETL Specialist & Project Leader
 
-With over 7 years of experience in data engineering and solution delivery, I specialize in designing and optimizing ETL frameworks that translate complex data into actionable insights. My work spans healthcare, banking, and pharma domains—where precision, collaboration, and strategic thinking drive every solution I build.
+With over 8 years of experience in data engineering and solution delivery, I specialize in designing and optimizing ETL frameworks that translate complex data into actionable insights. My work spans healthcare, banking, and pharma domains - where precision, collaboration, and strategic thinking drive every solution I build.
 
 ---
 
