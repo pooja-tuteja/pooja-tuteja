@@ -18,7 +18,7 @@ With over 8 years of experience in data engineering and solution delivery, I spe
 ## Selected Projects
 
 ### Healthcare Data Reporting | Principal Consultant  
-**Duration:** June 2024 – March 2024  
+**Duration:** June 2024 – March 2025  
 **Tools:** Talend, Oracle DB, Golden Gate  
 Architected a reporting solution for healthcare insurance, leading ETL development and mentoring junior engineers. Oversaw stakeholder communications, UAT, and deployment phases.
 
